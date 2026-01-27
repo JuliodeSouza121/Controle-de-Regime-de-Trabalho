@@ -35,13 +35,13 @@ A solução foi criada para identificar inconsistências cadastrais, garantir re
 - Comparação entre **cidade de residência** e **cidade de exercício**.
 - Análise do impacto geográfico nos regimes de trabalho.
 - Suporte a decisões sobre presencialidade e distribuição territorial.
-![Visão Geral](Cidade/CC_PG2.png)
+![Visão Geral](Modalidade/CC_PG2.png)
 
 ### Aba — Função e Modalidade
 - Análise por **cargo/função**.
 - Distribuição dos servidores por **modalidade de trabalho** (presencial, remoto, parcial).
 - Apoio à avaliação de políticas de trabalho por área ou função.
-![Função e Modalidade](/CC_PG4.png)
+![Função e Modalidade](Modalidade/CC_PG4.png)
 
 ---
 
