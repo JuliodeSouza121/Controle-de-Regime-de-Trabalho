@@ -1,4 +1,4 @@
-# Projeto — Controle de Diversidade e Regime de Trabalho (ANAC)
+# Projeto — Controle de Regime de Trabalho (ANAC)
 
 ## Visão Geral
 Projeto desenvolvido para **padronização, validação e análise do regime de trabalho dos servidores**, integrando informações provenientes de **dois sistemas distintos: ANAC+ e SIAPE**.
