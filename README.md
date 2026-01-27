@@ -47,6 +47,8 @@ A solução foi criada para identificar inconsistências cadastrais, garantir re
 
 ## Tecnologias Utilizadas
 - Power BI
+- Power Plataform
+- Microsoft Fabric
 - SQL (extração e tratamento de dados)
 - Modelagem de Dados
 - Padronização e Governança da Informação
