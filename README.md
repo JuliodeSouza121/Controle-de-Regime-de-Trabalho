@@ -10,7 +10,7 @@ A solução foi criada para identificar inconsistências cadastrais, garantir re
 ## Exemplos de Visualizações
 
 ### Visão Geral
-![Visão Geral](docs/visao_geral.png)
+![Visão Geral](Modalidade/CC_PG1.png)
 
 ### Indicadores Operacionais
 ![Indicadores](docs/kpis.png)
@@ -39,17 +39,18 @@ A solução foi criada para identificar inconsistências cadastrais, garantir re
 - Lista consolidada dos servidores/colaboradores.
 - Comparação direta do regime de trabalho informado em cada sistema.
 - Identificação de inconsistências e divergências cadastrais.
+  ![Tabela Servidores](Modalidade/CC_PG1.png)
 
 ### Aba — Cidade (Residência x Exercício)
 - Comparação entre **cidade de residência** e **cidade de exercício**.
 - Análise do impacto geográfico nos regimes de trabalho.
 - Suporte a decisões sobre presencialidade e distribuição territorial.
-
+![Visão Geral](Cidade/CC_PG1.png)
 ### Aba — Função e Modalidade
 - Análise por **cargo/função**.
 - Distribuição dos servidores por **modalidade de trabalho** (presencial, remoto, parcial).
 - Apoio à avaliação de políticas de trabalho por área ou função.
-
+![Função e Modalidade](/CC_PG1.png)
 ---
 
 ## Tecnologias Utilizadas
