@@ -7,16 +7,6 @@ A solução foi criada para identificar inconsistências cadastrais, garantir re
 
 ---
 
-## Exemplos de Visualizações
-
-### Visão Geral
-![Visão Geral](Modalidade/CC_PG1.png)
-
-### Indicadores Operacionais
-![Indicadores](docs/kpis.png)
-
----
-
 ## Objetivos do Projeto
 - Garantir que os servidores possuam **regimes de trabalho padronizados e consistentes** entre sistemas distintos.
 - Identificar divergências de preenchimento entre ANAC+ e SIAPE.
@@ -45,12 +35,14 @@ A solução foi criada para identificar inconsistências cadastrais, garantir re
 - Comparação entre **cidade de residência** e **cidade de exercício**.
 - Análise do impacto geográfico nos regimes de trabalho.
 - Suporte a decisões sobre presencialidade e distribuição territorial.
-![Visão Geral](Cidade/CC_PG1.png)
+![Visão Geral](Cidade/CC_PG2.png)
+
 ### Aba — Função e Modalidade
 - Análise por **cargo/função**.
 - Distribuição dos servidores por **modalidade de trabalho** (presencial, remoto, parcial).
 - Apoio à avaliação de políticas de trabalho por área ou função.
-![Função e Modalidade](/CC_PG1.png)
+![Função e Modalidade](/CC_PG4.png)
+
 ---
 
 ## Tecnologias Utilizadas
