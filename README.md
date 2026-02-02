@@ -11,7 +11,7 @@ A solução foi criada para identificar inconsistências cadastrais, garantir re
 - Garantir que os servidores possuam **regimes de trabalho padronizados e consistentes** entre sistemas distintos.
 - Identificar divergências de preenchimento entre ANAC+ e SIAPE.
 - Facilitar o acompanhamento da **quantidade de servidores presenciais, remotos e híbridos**.
-- Apoiar decisões relacionadas a **alocação de pessoas, políticas de trabalho e governança de dados**.
+- Apoiar decisões relacionadas à **alocação de pessoas, políticas de trabalho e governança de dados**.
 
 ---
 
@@ -74,4 +74,4 @@ Este projeto reflete cenários comuns em ambientes corporativos de **Power Platf
 ---
 
 ## Observação
-Os dados apresentados neste repositório são **anonimizados ou simulados**, preservando a confidencialidade institucional.
+Os dados apresentados nesse repositório são **anonimizados ou simulados**, preservando a confidencialidade institucional.
